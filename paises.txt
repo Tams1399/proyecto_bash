@@ -1,0 +1,6 @@
+pais,poblacion,clima
+Mexico,126M,suptropical
+USA,336M,templado
+China,1.4B,templado
+Rusia,146M,polar
+Japon,123M,templado
